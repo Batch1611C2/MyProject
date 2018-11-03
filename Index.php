@@ -1,6 +1,16 @@
 <?php
 
 echo "<p>Hello World!</p>";
+
+if(isset($_POST['send']))
+{
+	$name= $_POST['name'];
+	$email=$_POST['email'];
+	$msg=$_POST['msg'];
+	//mailng code here
+}
+
+
 ?>
 
 
