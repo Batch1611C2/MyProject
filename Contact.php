@@ -19,4 +19,5 @@ if(isset($_POST['send']))
 <p>Email: <input type="email" name="email" required="required"/> </p>
 <p>Message: <textarea name="msg"></textarea></p>
 <p><input type="submit" name="send" value="Send" /></p>
+	<p>HUzzaifaHasshim :)</p>
 </form>
